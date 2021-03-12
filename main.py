@@ -3,8 +3,6 @@ def times10(n):
 
 def firstA(x):
     if x [0] == "a":
-        return "True"
+        return True
     else:
-        return "False"
-
-
+        return False
