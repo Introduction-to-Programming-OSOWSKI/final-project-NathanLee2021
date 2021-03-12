@@ -7,12 +7,4 @@ def firstA(x):
     else:
         return "False"
 
-def sizer(s):
-    if s < 10:
-        return "small"
-    elif 10 < s > 100:
-            return "medium"
-    else:
-        return "large"
 
-print (sizer("12"))
